@@ -5,7 +5,6 @@ This submission defines a deterministic, real-world engineering challenge based 
 - **Repository:** https://github.com/bhupeshpatil04/Eshway-Assignment
 - **Commit Hash:** a09e2dcbecacd33d228b8810d588f7b8c1b6f54d
 - **Difficulty:** Medium
-git add README.md
 
 ## Included
 - Problem description
